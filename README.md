@@ -7,7 +7,7 @@
 - ⚡ I move data from A to B 
 - 👯 I’m looking to collaborate on your Data jobs
 - 🌱 I’m currently learning about Modern Data Tools
-- 🐦 You can follow me on Twitter @Mekazstan
+- 🐦 You can follow me on Twitter [@Mekazstan](https://x.com/Mekazstan)
 <!--
 **Mekazstan/Mekazstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
