@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,linux&theme=dark)](https://skillicons.dev)
