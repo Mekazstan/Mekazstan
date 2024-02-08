@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### ⚡ SOME CORE SKILLS AND EXPERTIZE
+
 
 [![My Skills](https://skillicons.dev/icons?i=py,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,linux&theme=dark)](https://skillicons.dev)
