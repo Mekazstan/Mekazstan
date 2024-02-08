@@ -3,11 +3,13 @@
 
 
 ### Hi there I'm Chukwuemeka👋
-- 🖥️ I've been coding in Python primarily for over 3 years
-- ⚡ I move data from A to B 
-- 👯 I’m looking to collaborate on your Data jobs
+I've always found it interesting being able to scrape as much information as you want from the internet. For a while i've dabbling across several tech stack ranging from frontend, mobile, blockchain, backend but along side, I was still actively involved in webscrapping up until I stumbled upon the field of Data Engineering then it clicked and seemed just right being able to help people create or maintain their Data architecture using my favorite language Python.
+- ⚡ Now i move data from A to B 
+- 👯 I’m currently on the look out for a role in Data Engineering, Architecture & Pipeline development.
 - 🌱 I’m currently learning about Modern Data Tools
 - 🐦 You can follow me on Twitter [@Mekazstan](https://x.com/Mekazstan)
+
+If you are hiring, let's chat!
 <!--
 **Mekazstan/Mekazstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
