@@ -3,11 +3,14 @@
 
 
 ### Hi there I'm Chukwuemeka👋
-I've always found it interesting being able to scrape as much information as you want from the internet. For a while i've dabbling across several tech stack ranging from frontend, mobile, blockchain, backend but along side, I was still actively involved in webscrapping up until I stumbled upon the field of Data Engineering then it clicked and seemed just right being able to help people create or maintain their Data architecture using my favorite language Python.
+As a Python Developer, I am focused in integrating AI APIs to build better systems and optimize workflows. My proficiency in a range of tech stacks, including frontend and backend development, enables me to deliver better solutions that meet the unique needs of each project.
+
+In recent years, I have become increasingly interested in agentic systems and the potential of workflow and process automation. and I'm currently seeking new opportunities in where I can apply my expertise in AI, Python, and Data Engineering to deliver value and drive innovation. I am committed to staying up-to-date with the latest developments in AI, modern data tools and techniques, and I am always eager to learn more.
 - ⚡ Now i move data from A to B 
 - 👯 I’m currently on the look out for a role in Data Engineering, Architecture & Pipeline development.
 - 🌱 I’m currently learning about Modern Data Tools
 - 🐦 You can follow me on Twitter [@Mekazstan](https://x.com/Mekazstan)
+- 💬 You can follow me on Linkedin [@Chukwuemeka Asogwa]([https://x.com/Mekazstan](https://www.linkedin.com/in/chukwuemeka-asogwa-151a69219/))
 
 If you are hiring, let's chat!
 <!--
@@ -28,4 +31,4 @@ Here are some ideas to get you started:
 
 ### ⚡ SOME CORE SKILLS AND EXPERTIZE
 ************************************
-[![My Skills](https://skillicons.dev/icons?i=py,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,linux&theme=dark,fastapi,flask,vscode,ubuntu,tailwind,selenium,supabase,stackoverflow,sqlite,replit,redis,react,pycharm,nextjs,netlify,nodejs,npm,md,linkedin,twitter,js,html,css,heroku,gmail)](https://skillicons.dev)
