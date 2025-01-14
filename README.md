@@ -10,7 +10,7 @@ In recent years, I have become increasingly interested in agentic systems and th
 - 👯 I’m currently on the look out for a role in Data Engineering, Architecture & Pipeline development.
 - 🌱 I’m currently learning about Modern Data Tools
 - 🐦 You can follow me on Twitter [@Mekazstan](https://x.com/Mekazstan)
-- 💬 You can follow me on Linkedin [@Chukwuemeka Asogwa]([https://x.com/Mekazstan](https://www.linkedin.com/in/chukwuemeka-asogwa-151a69219/))
+- 💬 You can follow me on Linkedin [@Chukwuemeka Asogwa](https://www.linkedin.com/in/chukwuemeka-asogwa-151a69219/)
 
 If you are hiring, let's chat!
 <!--
