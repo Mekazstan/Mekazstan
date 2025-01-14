@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ### ⚡ SOME CORE SKILLS AND EXPERTIZE
 ************************************
-[![My Skills](https://skillicons.dev/icons?i=py,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,fastapi,flask,vscode,ubuntu,tailwind,selenium,supabase,stackoverflow,sqlite,replit,redis,react,pycharm,nextjs,netlify,nodejs,npm,md,linkedin,twitter,js,html,css,heroku,gmail&theme=dark,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,fastapi,flask,vscode,ubuntu,tailwind,selenium,supabase,stackoverflow,sqlite,replit,redis,react,pycharm,nextjs,netlify,nodejs,npm,md,linkedin,twitter,js,html,css,heroku,gmail&theme=dark,)(https://skillicons.dev)
