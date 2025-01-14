@@ -6,9 +6,9 @@
 A Python Developer learning how to integrate AI APIs to build better systems and optimize workflows. My proficiency in a range of tech stacks, including frontend and backend development, enables me to deliver better solutions that meet the unique needs of each project.
 
 In recent years, I have become increasingly interested in agentic systems and the potential of workflow and process automation. and I'm currently seeking new opportunities in where I can apply my expertise in AI, Python, and Data Engineering to deliver value and drive innovation. I am committed to staying up-to-date with the latest developments in AI, modern data tools and techniques, and I am always eager to learn more.
-- ⚡ Now i move data from A to B 
-- 👯 I’m currently on the look out for a role in Data Engineering, Architecture & Pipeline development.
-- 🌱 I’m currently learning about Modern Data Tools
+- ⚡ Let's make work easy.
+- 👯 I’m currently on the look out for a role in AI Integration, Data Engineering, Architecture & Pipeline development.
+- 🌱 I’m currently learning about Agentic Systems, Workflow Automations & Modern Data Tools
 - 🐦 You can follow me on Twitter [@Mekazstan](https://x.com/Mekazstan)
 - 💬 You can follow me on Linkedin [@Chukwuemeka Asogwa](https://www.linkedin.com/in/chukwuemeka-asogwa-151a69219/)
 
