@@ -3,7 +3,7 @@
 
 
 ### Hi there I'm Chukwuemeka👋
-As a Python Developer, I am focused in integrating AI APIs to build better systems and optimize workflows. My proficiency in a range of tech stacks, including frontend and backend development, enables me to deliver better solutions that meet the unique needs of each project.
+A Python Developer learning how to integrate AI APIs to build better systems and optimize workflows. My proficiency in a range of tech stacks, including frontend and backend development, enables me to deliver better solutions that meet the unique needs of each project.
 
 In recent years, I have become increasingly interested in agentic systems and the potential of workflow and process automation. and I'm currently seeking new opportunities in where I can apply my expertise in AI, Python, and Data Engineering to deliver value and drive innovation. I am committed to staying up-to-date with the latest developments in AI, modern data tools and techniques, and I am always eager to learn more.
 - ⚡ Now i move data from A to B 
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ### ⚡ SOME CORE SKILLS AND EXPERTIZE
 ************************************
-[![My Skills](https://skillicons.dev/icons?i=py,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,linux&theme=dark,fastapi,flask,vscode,ubuntu,tailwind,selenium,supabase,stackoverflow,sqlite,replit,redis,react,pycharm,nextjs,netlify,nodejs,npm,md,linkedin,twitter,js,html,css,heroku,gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,fastapi,flask,vscode,ubuntu,tailwind,selenium,supabase,stackoverflow,sqlite,replit,redis,react,pycharm,nextjs,netlify,nodejs,npm,md,linkedin,twitter,js,html,css,heroku,gmail&theme=dark,)](https://skillicons.dev)
