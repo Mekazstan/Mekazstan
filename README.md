@@ -3,12 +3,11 @@
 
 
 ### Hi there I'm Chukwuemeka👋
-A Python Developer learning how to integrate AI APIs to build better systems and optimize workflows. My proficiency in a range of tech stacks, including frontend and backend development, enables me to deliver better solutions that meet the unique needs of each project.
+I specialize in backend development and AI agent workflows, primarily using Python, JavaScript, and Go. I thrive in fast-paced, evolving environments and am comfortable working both independently and within collaborative teams. My recent focus has been on building AI-integrated systems, especially leveraging LLMs for automation, retrieval-augmented generation (RAG), and agent-based architecture. I bring a problem-solving mindset, eagerness to learn, and a strong drive to contribute to high-impact projects.
 
-In recent years, I have become increasingly interested in agentic systems and the potential of workflow and process automation. and I'm currently seeking new opportunities in where I can apply my expertise in AI, Python, and Data Engineering to deliver value and drive innovation. I am committed to staying up-to-date with the latest developments in AI, modern data tools and techniques, and I am always eager to learn more.
 - ⚡ Let's make work easy.
-- 👯 I’m currently on the look out for a role in AI Integration, Data Engineering, Architecture & Pipeline development.
-- 🌱 I’m currently learning about Agentic Systems, Workflow Automations & Modern Data Tools
+- 👯 I’m currently on the look out for a role in Backend Development, AI Integration, Architecture & Pipeline development.
+- 🌱 I’m currently learning about Building Scalable Systems, Agentic Systems, Workflow Automations & Modern Data Tools
 - 🐦 You can follow me on Twitter [@Mekazstan](https://x.com/Mekazstan)
 - 💬 You can follow me on Linkedin [@Chukwuemeka Asogwa](https://www.linkedin.com/in/chukwuemeka-asogwa-151a69219/)
 
@@ -31,4 +30,4 @@ Here are some ideas to get you started:
 
 ### ⚡ SOME CORE SKILLS AND EXPERTIZE
 ************************************
-[![My Skills](https://skillicons.dev/icons?i=py,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,fastapi,flask,vscode,ubuntu,tailwind,selenium,supabase,stackoverflow,sqlite,replit,redis,react,pycharm,nextjs,netlify,nodejs,npm,md,linkedin,twitter,js,html,css,heroku,gmail&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,golang,docker,aws,kafka,postgres,mongodb,mysql,bash,git,github,kubernetes,django,fastapi,flask,vscode,ubuntu,tailwind,selenium,supabase,stackoverflow,sqlite,replit,redis,react,pycharm,nextjs,netlify,nodejs,npm,md,linkedin,twitter,js,html,css,heroku,gmail&theme=dark)](https://skillicons.dev)
